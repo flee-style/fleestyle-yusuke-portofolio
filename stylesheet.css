@@ -1,0 +1,20 @@
+
+
+.row {
+	padding: 15px 0;
+}
+
+header {
+	height: 30px;
+	background-color: aquamarine;
+	opacity: 0.8;
+	position: fixed;
+	top: 0;
+	z-index: 10;
+}
+
+img {
+	border-radius: 50%;  
+    width:  100px;       
+	height: 100px;
+}
